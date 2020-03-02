@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Automated to view how many Approved request in 2019." skipped="0" tests="2" time="23.55" timestamp="2020-03-02 04:44:30"><testcase name="Successful Login with Admin credentials"/><testcase name="Admin can see how many Request with Approved status and in the year of 2019"/></testsuite>
